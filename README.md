@@ -1,7 +1,7 @@
 👋 Hi, I’m Deepak Kumar
 👀 I’m interested in Programming.
 🌱 I’m currently learning React Frontend Framework.
-📫 How to reach me deepakplay14@gmail.com
+📫 Reach me at deepakplay14@gmail.com
 
 <!---
 deepakplay/deepakplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
